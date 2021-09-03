@@ -1,2 +1,2 @@
 # Web-Development-Works
-Web Development Works by Vaibhav Agarwal
+Web Development Works by Vaibhav
